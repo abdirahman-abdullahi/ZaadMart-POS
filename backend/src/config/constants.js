@@ -1,0 +1,11 @@
+const APP_NAME = "ZaadMart POS";
+const API_VERSION = "1.0.0";
+const MAX_FAILED_LOGIN_ATTEMPTS = 5;
+const ACCOUNT_LOCK_MINUTES = 15;
+
+module.exports = {
+  APP_NAME,
+  API_VERSION,
+  MAX_FAILED_LOGIN_ATTEMPTS,
+  ACCOUNT_LOCK_MINUTES,
+};
